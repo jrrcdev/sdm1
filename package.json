@@ -14,7 +14,7 @@
     "cors": "^2.8.5",
     "express": "^4.16.3",
     "express-validator": "^5.3.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mongoose": "^5.4.10",
     "multer": "^1.4.1",
     "node-fetch": "^2.4.1"
